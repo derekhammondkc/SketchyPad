@@ -1,0 +1,52 @@
+* {
+  font-family: verdana, arial;
+}
+
+#title h1 {
+  width: 960px;
+  margin: 5px auto;
+  text-align: left;
+  color: #252839;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: calibri, serif;
+}
+
+#title p {
+  width: 960px;
+  margin: 5px auto;
+  font-weight: lighter;
+  text-align: left;
+  color: #e05915;
+  font-family: calibri, serif;
+  font-size: 18px;
+}
+
+#buttons {
+  width: 960px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+  color: #c2dde6;
+  font-height: 30px;
+  font-size: 100%;
+  font-weight: bold;
+  background-color: #431c5d;
+  border: 2px black solid;
+}
+
+#grid {
+  width: 960px;
+  height: 960px;
+  margin: 10px auto;
+}
+
+.square {
+  background-color: #E8E8E8;
+  margin: 1px;
+}
