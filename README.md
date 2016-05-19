@@ -1,6 +1,6 @@
 <h1> SketchyPad </h1>
 
-<h2>The Odin Project</h2>
+<h2><a href="http://www.theodinproject.com/">The Odin Project</h2>
 
 <h3>HTML/CSS/Javascript/jQuery Project: Sketchy Pad</h3>
 
