@@ -34,7 +34,7 @@ $(document).ready(function() {
 function make_grid(squares) {
     i = 1;
     j = 1;
-    side = Math.floor(Math.sqrt((1000*1000) / (squares * squares)));
+    side = Math.floor(Math.sqrt((960*960) / (squares * squares)));
 
     while(i <= squares) {
         $("#grid").append('<div class="column' + i +'" style="display:inline-block;" >');
