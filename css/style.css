@@ -50,3 +50,13 @@ button {
   background-color: #E8E8E8;
   margin: 1px;
 }
+
+#footer {
+  width: 960px;
+  margin: 5px auto;
+  font-weight: lighter;
+  text-align: left;
+  color: #e05915;
+  font-family: calibri, serif;
+  font-size: 18px;
+}
