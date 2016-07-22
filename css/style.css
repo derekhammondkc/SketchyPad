@@ -52,9 +52,8 @@ button {
 }
 
 #footer {
-  width: 960px;
   margin: 5px auto;
-  font-weight: bold;
+  font-weight: normal;
   text-align: left;
   color: #315198;
   font-family: calibri, serif;
